@@ -7,7 +7,7 @@ const xml2js = require('xml2js');
 module.exports = async (data) => {
   let list = data.slice(0, -1);
 
-  let tableData = '| Country | Keyword | Last Update |\n| --- | --- | --- |\n';
+  let tableData = '| Country | Keyword | Last Update | Title | Link | PubDate | Traffic |\n| --- | --- | --- | --- | --- | --- | --- |\n';
 
   for (let item of list) {
     let [name, code] = item.split('=');
@@ -31,7 +31,7 @@ module.exports = async (data) => {
 
     const keywordString = thiskeyword.join(', ');
 
-    tableData += `| ${name} | ${keywordString} | ${res.lastUpdate} |\n`;
+    tableData += `| ${name} | ${keywordString} | ${res.lastUpdate} | ${res.data.title} | ${res.data.link} | ${res.data.pubdate} | ${res.approxtraffic} |\n`;
 
     fs.writeFileSync(`./data/${name}.json`, JSON.stringify(res, null, 2));
     fs.writeFileSync(`./forcopied/${name}.txt`, thiskeyword.toString(), "UTF-8");
