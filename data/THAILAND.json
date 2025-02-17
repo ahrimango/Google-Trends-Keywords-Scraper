@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-02-2025 , 00:42:18",
+  "lastUpdate": "17-02-2025 , 02:09:32",
   "data": [
     {
       "title": "ตรวจหวย",
@@ -62,11 +62,6 @@
       "pubdate": "Sat, 15 Feb 2025 22:00:00 +0700"
     },
     {
-      "title": "AI เสื้อผีเสื้อ",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TH#AI%20%E0%B9%80%E0%B8%AA%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%9C%E0%B8%B5%E0%B9%80%E0%B8%AA%E0%B8%B7%E0%B9%89%E0%B8%AD",
-      "pubdate": "Sat, 15 Feb 2025 21:00:00 +0700"
-    },
-    {
       "title": "AirAsia",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TH#AirAsia",
       "pubdate": "Sat, 15 Feb 2025 14:00:00 +0700"
@@ -100,6 +95,11 @@
       "title": "แคปชั่นวันวาเลนไทน์",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TH#%E0%B9%81%E0%B8%84%E0%B8%9B%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%A7%E0%B8%B2%E0%B9%80%E0%B8%A5%E0%B8%99%E0%B9%84%E0%B8%97%E0%B8%99%E0%B9%8C",
       "pubdate": "Fri, 14 Feb 2025 09:00:00 +0700"
+    },
+    {
+      "title": "เพลงรัก",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TH#%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%A3%E0%B8%B1%E0%B8%81",
+      "pubdate": "Fri, 14 Feb 2025 20:00:00 +0700"
     }
   ]
 }

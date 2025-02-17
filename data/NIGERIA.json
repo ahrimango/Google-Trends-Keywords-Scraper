@@ -1,15 +1,20 @@
 {
-  "lastUpdate": "17-02-2025 , 00:42:16",
+  "lastUpdate": "17-02-2025 , 02:09:29",
   "data": [
     {
-      "title": "Tottenham vs Man United",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Tottenham%20vs%20Man%20United",
-      "pubdate": "Sun, 16 Feb 2025 16:00:00 +0100"
+      "title": "Barcelona vs Rayo Vallecano",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Barcelona%20vs%20Rayo%20Vallecano",
+      "pubdate": "Mon, 17 Feb 2025 02:00:00 +0100"
+    },
+    {
+      "title": "Liverpool vs Wolves",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Liverpool%20vs%20Wolves",
+      "pubdate": "Sun, 16 Feb 2025 11:00:00 +0100"
     },
     {
       "title": "Man City",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Man%20City",
-      "pubdate": "Sun, 16 Feb 2025 14:00:00 +0100"
+      "pubdate": "Sun, 16 Feb 2025 16:00:00 +0100"
     },
     {
       "title": "Juventus vs Inter",
@@ -27,14 +32,14 @@
       "pubdate": "Sun, 16 Feb 2025 15:00:00 +0100"
     },
     {
-      "title": "PSG",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#PSG",
-      "pubdate": "Sun, 16 Feb 2025 03:00:00 +0100"
-    },
-    {
       "title": "Real Betis",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Real%20Betis",
       "pubdate": "Sun, 16 Feb 2025 23:00:00 +0100"
+    },
+    {
+      "title": "PSG",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#PSG",
+      "pubdate": "Sun, 16 Feb 2025 03:00:00 +0100"
     },
     {
       "title": "Arsenal vs Tottenham",
@@ -44,11 +49,6 @@
     {
       "title": "Fiorentina",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Fiorentina",
-      "pubdate": "Sun, 16 Feb 2025 15:00:00 +0100"
-    },
-    {
-      "title": "Chidimma Adetshina mother",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Chidimma%20Adetshina%20mother",
       "pubdate": "Sun, 16 Feb 2025 15:00:00 +0100"
     },
     {
@@ -67,8 +67,18 @@
       "pubdate": "Sun, 16 Feb 2025 16:00:00 +0100"
     },
     {
+      "title": "Referral",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Referral",
+      "pubdate": "Sun, 16 Feb 2025 22:00:00 +0100"
+    },
+    {
       "title": "Amad Diallo",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Amad%20Diallo",
+      "pubdate": "Sun, 16 Feb 2025 14:00:00 +0100"
+    },
+    {
+      "title": "Nico González",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Nico%20Gonz%C3%A1lez",
       "pubdate": "Sun, 16 Feb 2025 14:00:00 +0100"
     },
     {
@@ -82,24 +92,14 @@
       "pubdate": "Sun, 16 Feb 2025 19:00:00 +0100"
     },
     {
+      "title": "Tottenham vs Man United",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Tottenham%20vs%20Man%20United",
+      "pubdate": "Sat, 15 Feb 2025 16:00:00 +0100"
+    },
+    {
       "title": "Leicester City vs Arsenal",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Leicester%20City%20vs%20Arsenal",
       "pubdate": "Sat, 15 Feb 2025 13:00:00 +0100"
-    },
-    {
-      "title": "Osasuna vs Real Madrid",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Osasuna%20vs%20Real%20Madrid",
-      "pubdate": "Sat, 15 Feb 2025 16:00:00 +0100"
-    },
-    {
-      "title": "Man City vs Newcastle",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Man%20City%20vs%20Newcastle",
-      "pubdate": "Sat, 15 Feb 2025 08:00:00 +0100"
-    },
-    {
-      "title": "Liverpool vs Wolves",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Liverpool%20vs%20Wolves",
-      "pubdate": "Sat, 15 Feb 2025 16:00:00 +0100"
     }
   ]
 }
